@@ -1,0 +1,7 @@
+First I used the Pynq board file, which already knows which Ethernet, SDcard etc is used.
+
+
+One Thing:
+
+In Vivado in the initial Block Design I needed to manually connect the FCLK_CLK0 with M_AXI_GP0_ACLK. M_AXI_GP0_ACLK persisted, even though I didn not include any AXI or PL in my processing_system.
+
