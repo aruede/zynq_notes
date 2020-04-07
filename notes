@@ -1,5 +1,6 @@
 First I used the Pynq board file, which already knows which Ethernet, SDcard etc is used.
 
+Following: http://svenand.blogdrives.com/archive/169.html#.XoxYsPGxX3A
 
 One Thing:
 
